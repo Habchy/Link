@@ -2,7 +2,7 @@
 
 **Welcome:**
 
-This is the official Github for the Link discord bot.
+This is the official Github for the Link discord bot. (**Link#7233**)
 
 
 This bot is re-coded and mantained by: **Habchy#1665**
